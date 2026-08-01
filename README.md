@@ -25,7 +25,6 @@ This project calculates the total marks, average percentage, and final grade of 
 ## Concepts Used
 
 - Scanner Class
-- Arrays
 - Conditional Statements
 - Loops
 
