@@ -24,7 +24,6 @@ This project calculates the total marks, average percentage, and final grade of 
 
 ## Concepts Used
 
-- Object-Oriented Programming (OOP)
 - Scanner Class
 - Arrays
 - Conditional Statements
@@ -99,7 +98,6 @@ java StudentGradeCalculator
 Through this project I learned:
 
 - Java Programming
-- Arrays
 - Scanner Class
 - Conditional Statements
 - Loops
